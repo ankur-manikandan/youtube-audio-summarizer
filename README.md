@@ -2,6 +2,8 @@
 
 This Streamlit application allows users to summarize YouTube videos. By providing a YouTube URL, the application downloads the audio from the video, and then uses Gemini to create a summary of the audio content.
 
+![Screenshot of the application](images/screenshot.png)
+
 ## Features
 
 - Download audio from YouTube videos
