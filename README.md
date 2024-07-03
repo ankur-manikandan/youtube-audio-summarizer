@@ -4,6 +4,13 @@ This Streamlit application allows users to summarize YouTube videos. By providin
 
 ![Screenshot of the application](images/screenshot.png)
 
+## Applications
+
+- Audio Insights and Analytics
+- Podcast & Video Summaries
+- Market Research
+- News Summarization
+
 ## Features
 
 - Download audio from YouTube videos
@@ -16,7 +23,7 @@ This Streamlit application allows users to summarize YouTube videos. By providin
 
 - Python 3.11 or higher
 - pip (Python package installer)
-- GEMINI API key
+- Gemini API key
 
 ### Creating a Python Virtual Environment
 
@@ -50,7 +57,7 @@ Once the virtual environment is activated, install the necessary packages using 
 pip install -r requirements.txt
 ```
 
-### Setting Up the GEMINI API Key
+### Setting Up the Gemini API Key
 
 1. Obtain your GEMINI API key.
 2. **Set the environment variable `GEMINI_API_KEY` with your API key**:
